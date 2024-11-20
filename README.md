@@ -1,3 +1,4 @@
+![Home Page](https://github.com/Shawnn9/react-project/blob/main/src/components/layout/assets/logo.png) 
 # React Project
 
 ## Overview
