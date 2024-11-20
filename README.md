@@ -29,9 +29,6 @@ This repository contains all the code for the project, including the main React 
 ## Screenshots
 
 ![Home Page](https://github.com/Shawnn9/react-project/blob/main/src/components/pages/Home/assets/image.png) 
-_Screenshot of the home page displaying the main features of the app._
-
-![Form Validation](https://path/to/your/image.jpg)  
 
 ## Getting Started
 
