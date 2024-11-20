@@ -47,11 +47,8 @@ Before you begin, ensure that you have the following installed:
 1. Clone this repository:
    ```bash
    git clone https://github.com/Shawnn9/react-project.git
-2. ```bash
    cd react-project
-3. ```bash
    npm install
-4. ```bash
    npm start
 
    
