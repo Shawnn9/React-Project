@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ![Home Page](https://github.com/Shawnn9/react-project/blob/main/src/components/layout/assets/logo.png)
-=======
-![Home Page](https://github.com/Shawnn9/react-project/blob/main/src/components/layout/assets/logo.png) 
->>>>>>> 5b84e7b25f1ae4be6f876507c46bd5bbbae4ef9d
 # React Project
 
 ## Overview
@@ -32,18 +28,10 @@ This repository contains all the code for the project, including the main React 
 
 ## Screenshots
 
-<<<<<<< HEAD
-![Home Page](https://path/to/your/image.jpg)
-_Screenshot of the home page displaying the main features of the app._
-
-![Form Validation](https://path/to/your/image.jpg)
-=======
-![Home Page](https://path/to/your/image.jpg)  
+![Home Page](https://github.com/Shawnn9/react-project/blob/main/src/components/pages/Home/assets/image.png) 
 _Screenshot of the home page displaying the main features of the app._
 
 ![Form Validation](https://path/to/your/image.jpg)  
->>>>>>> 5b84e7b25f1ae4be6f876507c46bd5bbbae4ef9d
-_Screenshot showing form validation in action._
 
 ## Getting Started
 
@@ -63,7 +51,3 @@ Before you begin, ensure that you have the following installed:
    npm install
    npm start
 
-<<<<<<< HEAD
-=======
-   
->>>>>>> 5b84e7b25f1ae4be6f876507c46bd5bbbae4ef9d
